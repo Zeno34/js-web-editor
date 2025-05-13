@@ -1,0 +1,15 @@
+{
+  "name": "code-sandbox",
+  "version": "1.0.0",
+  "description": "Code editor with Git integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "simple-git": "^3.22.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1"
+  }
+} 
